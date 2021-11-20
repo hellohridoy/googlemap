@@ -10,7 +10,6 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Googlemap" >
-
         <meta-data android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyC8xXk0_nSRLWJ84HLMGP6TWlRycEeOsnw"/>
 
